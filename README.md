@@ -67,6 +67,11 @@ h\left( X \right) = \frac{1}{2} + \ln \left({\frac{b-a}{2}}\right)
 ## Usage
 
 ```javascript
+import entropy from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-triangular-entropy@esm/index.mjs';
+```
+The previous example will load the latest bundled code from the esm branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/stats-base-dists-triangular-entropy/tags). For example,
+
+```javascript
 import entropy from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-triangular-entropy@v0.1.0-esm/index.mjs';
 ```
 
@@ -138,7 +143,7 @@ y = entropy( 0.0, -1.0, 0.5 );
 <script type="module">
 
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@esm/index.mjs';
-import entropy from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-triangular-entropy@v0.1.0-esm/index.mjs';
+import entropy from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-triangular-entropy@esm/index.mjs';
 
 var a;
 var b;
