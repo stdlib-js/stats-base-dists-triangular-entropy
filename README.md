@@ -67,7 +67,7 @@ h\left( X \right) = \frac{1}{2} + \ln \left({\frac{b-a}{2}}\right)
 ## Usage
 
 ```javascript
-import entropy from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-triangular-entropy@deno/mod.js';
+import entropy from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-triangular-entropy@v0.2.2-deno/mod.js';
 ```
 
 #### entropy( a, b, c )
@@ -133,7 +133,7 @@ y = entropy( 0.0, -1.0, 0.5 );
 
 ```javascript
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@deno/mod.js';
-import entropy from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-triangular-entropy@deno/mod.js';
+import entropy from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-triangular-entropy@v0.2.2-deno/mod.js';
 
 var a;
 var b;
