@@ -2,6 +2,62 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2024-12-26)
+
+<section class="features">
+
+### Features
+
+-   [`fc9ae04`](https://github.com/stdlib-js/stdlib/commit/fc9ae04de27f1f42a60bc3c266765f2e86dfd98e) - add C implementation for `stats/base/dists/triangular/entropy` [(#4255)](https://github.com/stdlib-js/stdlib/pull/4255)
+
+</section>
+
+<!-- /.features -->
+
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#3812](https://github.com/stdlib-js/stdlib/issues/3812)
+
+</section>
+
+<!-- /.issues -->
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`fc9ae04`](https://github.com/stdlib-js/stdlib/commit/fc9ae04de27f1f42a60bc3c266765f2e86dfd98e) - **feat:** add C implementation for `stats/base/dists/triangular/entropy` [(#4255)](https://github.com/stdlib-js/stdlib/pull/4255) _(by Prashant Kumar Yadav)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Prashant Kumar Yadav
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.2.2">
 
 ## 0.2.2 (2024-07-27)
